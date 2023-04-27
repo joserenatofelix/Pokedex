@@ -1,5 +1,5 @@
 # Trilha JS Developer - Pokedex
-<a href='joserenatofelix.github.io/Pokedex/'><button>Confira o projeto clicando aqui</button>
+<a href='https://joserenatofelix-pokedex.netlify.app/'><button>Confira o projeto clicando aqui</button>
 
 ![Lista de Pokemons](assets/img/pokemon-list.png)
 

@@ -35,7 +35,7 @@ function loadPokemonItens(offset, limit) {
             <li class="pokemon ${pokemon.type}">
             <div id="${pokemon.number}">
             
-            <span class="number">#${pokemon.number}</span>
+            <span class="number">N°${pokemon.number}</span>
             <span class="name">${pokemon.name}</span>
             
             <div class="detail">

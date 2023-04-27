@@ -10,7 +10,7 @@ body {
 .content {
     padding: 1rem;
     background-color: rgb(203,69,40);
-    background: linear-gradient(176deg, rgba(203,69,40,1) 0%, rgba(177,4,1,1) 35%, rgb(48, 0, 0) 100%);
+    background: linear-gradient(176deg, rgba(177,4,1,1) 0%, rgba(177,4,1,1) 35%, rgb(48, 0, 0) 100%);
     width: 90%;
     height: 90%;
     box-shadow: 10px 5px 5px black;    

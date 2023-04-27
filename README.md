@@ -25,7 +25,8 @@ Este projeto foi construído com as seguintes tecnologias:
 Clone o projeto
 
 ```bash
-  git clone https://github.com/valdir-alves3000/js-developer-pokedex.git
+  git clone https://github.com/joserenatofelix/Pokedex
+
 ```
 
 Abra o arquivo index.html em seu navegador.

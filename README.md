@@ -1,4 +1,5 @@
 # Trilha JS Developer - Pokedex
+<a href='https://joserenatofelix.github.io/Cafeteria/'><button>Confira o projeto clicando aqui</button>
 
 ![Lista de Pokemons](assets/img/pokemon-list.png)
 
